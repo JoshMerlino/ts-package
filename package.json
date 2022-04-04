@@ -36,7 +36,7 @@
         "extract-zip": "^2.0.1",
         "minecraft-text": "^1.2.18",
         "mkdirp": "^1.0.4",
-        "node-fetch": "^2.6.7",
+        "node-fetch": "^3.2.3",
         "sharp": "^0.30.3"
     }
 }
