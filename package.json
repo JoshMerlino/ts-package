@@ -28,7 +28,7 @@
         "typescript-eslint": "0.0.1-alpha.0"
     },
     "dependencies": {
-        "chalk": "^4.1.2",
+        "chalk": "^5.1.2",
         "dotenv": "^16.0.0"
     }
 }
